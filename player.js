@@ -6,4 +6,4 @@ newChange()
 
 change()
 
-change3()
+myChangeFromGitHub()
