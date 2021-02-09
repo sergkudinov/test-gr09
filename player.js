@@ -3,3 +3,5 @@ attack()
 anotherFunction()
 
 newChange()
+
+change()
