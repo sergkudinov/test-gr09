@@ -5,3 +5,5 @@ anotherFunction()
 newChange()
 
 change()
+
+myChangeFromGitHub()
