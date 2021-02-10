@@ -1,9 +1,1 @@
-attack()
-
-anotherFunction()
-
-newChange()
-
-change()
-
-myChangeFromGitHub()
+// Cleaned
