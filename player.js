@@ -3,3 +3,4 @@
 attack()
 
 newOtherAttack()
+newAttack()
