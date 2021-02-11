@@ -1,1 +1,3 @@
 // Cleaned
+
+attack()
