@@ -3,3 +3,5 @@
 attack()
 
 newAttack()
+
+otherThing()
