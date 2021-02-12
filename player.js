@@ -3,3 +3,5 @@
 attack()
 
 addMyAnotherAttack()
+
+defend()
