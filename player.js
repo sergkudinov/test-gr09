@@ -1,7 +1,3 @@
 // Cleaned
 
 attack()
-
-newAttack()
-
-otherThing()
