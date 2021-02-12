@@ -1,3 +1,5 @@
 // Cleaned
 
 attack()
+
+defend()
